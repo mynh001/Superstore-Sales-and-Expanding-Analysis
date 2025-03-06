@@ -63,7 +63,7 @@
 9, According to profit,
 * Technology is the most profitable category.
 * Consumer is the most profitable segment.
-→ **APAC** is the market where we have the highest profit ~ 0.44M and **Central EU** is the Market region with the highest profit.
+→ **APAC** is the market where we have the highest profit ~ 0.44M 
 
 10, According to Return of Sales (ROS)
 * Technology and Office supplies bring the highest ROS
